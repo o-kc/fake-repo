@@ -18,7 +18,7 @@ A server connects client data (files)
 Sockets to connect client-server
 Allocating memory in case there needs to be non-stack storage
 Signal handling for keys
-May use shared mem if processes inside computer must communicate.
+May use shared mem if processes inside computer must communicate
 **3.** Project Files : Server + Client + Helper(s) to confirm handshake and check status / activity
 
 
